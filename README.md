@@ -28,7 +28,7 @@ This profile contains some of the projects, experiments, and tools I have develo
 
 ## Featured Projects
 
-### ClimaNuvem
+### [ClimaNuvem](https://github.com/urianf/epi-climanuvem.git)
 
 A mobile application that analyzes images of the sky, identifies cloud types, and generates short-term hyperlocal weather forecasts.
 
@@ -37,24 +37,24 @@ The system combines a React Native mobile application, a FastAPI backend, Postgr
 **Technologies:** React Native, Expo, FastAPI, PostgreSQL, Firebase, Docker and multimodal AI.
 
 ---
-
+<!--
 ## GitHub Statistics
 
 <p align="center">
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api?username=Friede1992&show_icons=true&theme=github_dark&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api?username=Friede1992&show_icons=true&theme=github_dark&hide_border=true"
     alt="Fernando's GitHub statistics"
   />
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Friede1992&layout=compact&theme=github_dark&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Friede1992&layout=compact&theme=github_dark&hide_border=true"
     alt="Most used languages"
   />
 </p>
 
 ---
-
+-->
 ## Contact
 
 <p align="center">
