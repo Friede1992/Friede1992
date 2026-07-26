@@ -18,7 +18,7 @@ This profile contains some of the projects, experiments, and tools I have develo
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,java,spring,ts,react,docker,postgres,firebase,git,github,linux" />
@@ -26,9 +26,9 @@ This profile contains some of the projects, experiments, and tools I have develo
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### ☁️ ClimaNuvem
+### ClimaNuvem
 
 A mobile application that analyzes images of the sky, identifies cloud types, and generates short-term hyperlocal weather forecasts.
 
@@ -38,7 +38,7 @@ The system combines a React Native mobile application, a FastAPI backend, Postgr
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <p align="center">
   <img
@@ -55,7 +55,7 @@ The system combines a React Native mobile application, a FastAPI backend, Postgr
 
 ---
 
-## 🌐 Contact
+## Contact
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fernando-uría-navarro-008b46174/">
